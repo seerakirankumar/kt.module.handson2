@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application multilingue</string>
+    <string name="welcome_message">Bienvenue dans notre application !</string>
+    <string name="description">Cette application prend en charge plusieurs langues. Vous pouvez les changer ci-dessous :</string>
+    <string name="btn_english">Anglais</string>
+    <string name="btn_spanish">Espagnol</string>
+    <string name="btn_french">Français</string>
+</resources>
